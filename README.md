@@ -1,7 +1,6 @@
 # Hi, I'm Ethan 👋🏼
 <img align= "right" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=ethandiedericks&theme=codeSTACKr&show_icons=true" />
-<img align= "left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ethandiedericks&layout=compact" />
-
+<img align= "left" width= "47%"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ethandiedericks&layout=compact" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
