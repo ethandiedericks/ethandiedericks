@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ethan Diedericks
 
-* 👨🏻‍💻 I'm a self-taight backend developer 
+* 👨🏻‍💻 I'm a self-taught backend developer 
 * 🗂️ I'm currently building my portfolio, while looking for work
 * 📍 Port Elizabeth, South Africa
 
