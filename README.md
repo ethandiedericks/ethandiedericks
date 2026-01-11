@@ -1,24 +1,34 @@
-<h1 align="center">Hey there - I'm Ethan Diedericks 👋</h1>
+<h1 align="center">Ethan Diedericks</h1>
 
 <p align="center">
-  <strong>Problem Solver</strong><br/>
-  <em>Based in Port Elizabeth, South Africa</em>
+  Director & Software Engineer at <strong>Nevaeh Solutions</strong><br/>
+  <em>Designing software that solves real business problems</em>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### Philosophy
 
-#### 💻 Frontend
+I build software with purpose.  
+As Director of Nevaeh Solutions, I work at the intersection of business strategy and engineering, translating complex requirements into reliable, scalable systems. Every decision is guided by clarity, performance, and long-term value.
+
+We design and build web and mobile applications that help businesses operate better, scale faster, and make confident decisions.
+
+---
+
+### 🧰 Technology
+
+#### Frontend & Mobile
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" alt="Swift" />
 </p>
 
-#### ⚙️ Backend & DevOps
+#### Backend & Infrastructure
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" alt="C#" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" alt=".NET" />
@@ -32,16 +42,17 @@
 
 ---
 
-### 🧩 About Me
+### What I Focus On
 
-- 🔭 I’m currently building scalable cloud-native applications.
-- 🧠 Passionate about clean architecture, accessible UI, and performance.
-- 🛠 Always exploring new tech to elevate user and dev experiences.
-- 🌍 Collaborating with global teams and clients on high-impact software.
+- Web and mobile application development  
+- Cloud-native, production-ready systems  
+- Clean architecture and maintainable codebases  
+- Performance, reliability, and security by default  
+- Software that scales with the business, not against it  
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ethan-diedericks" target="_blank" rel="noreferrer">
@@ -56,5 +67,5 @@
 ---
 
 <p align="center">
-  <em>“First solve the problem, then write the code.” — John Johnson</em>
+  <em>Simple solutions. Thoughtfully built.</em>
 </p>
