@@ -1,7 +1,7 @@
-<h1 align="center">Hey there — I'm Ethan Diedericks 👋</h1>
+<h1 align="center">Hey there - I'm Ethan Diedericks 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Problem Solver</strong><br/>
+  <strong>Problem Solver</strong><br/>
   <em>Based in Port Elizabeth, South Africa</em>
 </p>
 
